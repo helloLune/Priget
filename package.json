@@ -1,0 +1,22 @@
+{
+  "name": "priget",
+  "version": "1.0.0",
+  "description": "makes public npm-packages private",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloLune/Priget.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "hoku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloLune/Priget/issues"
+  },
+  "homepage": "https://github.com/helloLune/Priget#readme"
+}
