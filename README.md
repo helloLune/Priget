@@ -1,4 +1,6 @@
 # Priget
+![Priget](https://github.com/helloLune/Priget/workflows/Priget/badge.svg)
+
 **Makes your npm-packages private**
 
 # About
